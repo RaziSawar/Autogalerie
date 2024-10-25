@@ -1,0 +1,14 @@
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\bin\Debug\net8.0\Auto Galerie.exe
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\bin\Debug\net8.0\Auto Galerie.deps.json
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\bin\Debug\net8.0\Auto Galerie.runtimeconfig.json
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\bin\Debug\net8.0\Auto Galerie.dll
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\bin\Debug\net8.0\Auto Galerie.pdb
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\Auto Galerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\Auto Galerie.AssemblyInfoInputs.cache
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\Auto Galerie.AssemblyInfo.cs
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\Auto Galerie.csproj.CoreCompileInputs.cache
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\Auto Galerie.dll
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\refint\Auto Galerie.dll
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\Auto Galerie.pdb
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\Auto Galerie.genruntimeconfig.cache
+C:\Users\HassanRaziUl\Documents\Projekt Autogalerie\Auto Galerie\Auto Galerie\obj\Debug\net8.0\ref\Auto Galerie.dll

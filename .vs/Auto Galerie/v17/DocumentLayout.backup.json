@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\kaufart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\kaufart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\nachrichten\\begr\u00FC\u00DFung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\nachrichten\\begr\u00FC\u00DFung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\zahlungsart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\zahlungsart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\benutzerdaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\benutzerdaten.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\markenswitsch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\markenswitsch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\modelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\modelle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|c:\\users\\hassanraziul\\documents\\projekt autogalerie\\auto galerie\\auto galerie\\automarken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{08031418-7EF3-4D04-AB27-45D183537229}|Auto Galerie\\Auto Galerie.csproj|solutionrelative:auto galerie\\automarken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Program.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\Program.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Program.cs*",
+              "RelativeToolTip": "Auto Galerie\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T08:44:53.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Benutzerdaten.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Benutzerdaten.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\Benutzerdaten.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Benutzerdaten.cs",
+              "RelativeToolTip": "Auto Galerie\\Benutzerdaten.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T08:06:13.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Zahlungsart.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Zahlungsart.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\Zahlungsart.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Zahlungsart.cs",
+              "RelativeToolTip": "Auto Galerie\\Zahlungsart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T18:17:25.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "KaufArt.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\KaufArt.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\KaufArt.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\KaufArt.cs",
+              "RelativeToolTip": "Auto Galerie\\KaufArt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T11:21:38.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MarkenSwitsch.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\MarkenSwitsch.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\MarkenSwitsch.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\MarkenSwitsch.cs",
+              "RelativeToolTip": "Auto Galerie\\MarkenSwitsch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T17:58:42.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Begr\u00FC\u00DFung.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Nachrichten\\Begr\u00FC\u00DFung.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\Nachrichten\\Begr\u00FC\u00DFung.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Nachrichten\\Begr\u00FC\u00DFung.cs*",
+              "RelativeToolTip": "Auto Galerie\\Nachrichten\\Begr\u00FC\u00DFung.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:06:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Modelle.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Modelle.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\Modelle.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Modelle.cs",
+              "RelativeToolTip": "Auto Galerie\\Modelle.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T13:02:06.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Automarken.cs",
+              "DocumentMoniker": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Automarken.cs",
+              "RelativeDocumentMoniker": "Auto Galerie\\Automarken.cs",
+              "ToolTip": "C:\\Users\\HassanRaziUl\\Documents\\Projekt Autogalerie\\Auto Galerie\\Auto Galerie\\Automarken.cs",
+              "RelativeToolTip": "Auto Galerie\\Automarken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T09:19:40.434Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

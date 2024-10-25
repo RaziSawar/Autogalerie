@@ -1,0 +1,87 @@
+Projekt Auto Galerie.
+
+Klassen:-
+        die Klassen habe ich nur aus diesem Gund ausgewählt dass Code gut sortiert ist und ich es im static void Main nutzen kann. 
+
+
+Methoden im Klassen:-
+                    wurden gelegt damit ich das Programmen logik da hinterlegen kann und bei bedarf es aufrufen kann.
+                   
+
+- schwierigkeit bei Auto modellen auszuwählen lassen. wie verknüpft man auto marken mit der consolen gegebene eingaben.
+1. ich habe versucht mit der if else logik zu verknupfen. usereingabe mit der hinterlegte information zutrifft soll das Marken information angezeigt  werden.
+
+2. habe klasse erstellt mit der Marken aber dann hat es mit den fehler gezeigt dass ich schon marken string schon verwendet habe, danach habe ich versucht
+mit dem vorhandenen string Marken etwwas zu machen...
+
+
+klasse Zahlungsart:-
+                     möchte ich aufbauen sodass ich die ganze funktionen von Zahlungen relevant hier in diesem Klasse im Methode habe und im Main Method 
+aufrufen kann wenn es gebraucht wird. 
+
+Verkauf abschnitt:
+-überlegung Phase.
+.möglichkeit 1 dass ich bei if statements mit der marken beschreibung in Klasse Marken hinzufüge.
+(es hat zwar funkioniert aber code ist ziemlich lang)
+
+
+problem.(18.10.24 abends)
+ich habe erst Kunde gefragt ob der änderung im Innenraum haben möchte und dem entsprchend alles in den Klasse Extrawünsche alles bereit gestellt, danach gemerkt dass die Klasse Zahlungsart mit der frage ob der Kunde das Auto Kauft oder nicht nach dem Innenraun logik erstellt. Erst fragt man der Kunde ob der Kaufen 
+möchten und danach sollte mit änderungen sich kümmern. das ganze logik da rein gepackt..
+
+Lösung.
+ 
+ich habe beide funktion in einem Klasse rein gepackt weil der Logik das verlangt hat. das habe ich gleich am anfang schon gemerkt aber dachte irgendwie
+mit paar änderungen schaffe ich es hin aber leider nicht geklappt. daher habe ich in die Klasse Zahlungsart bisschen formulierungen von Fragen und poistion
+gewechselt, somit habe ich die Lösung von meinem Problem geschafft.
+
+
+
+Herausforderung:
+                bei der Kauffrage nein, möchte ich dass der Benutzer zuruck an der Hauptseite gebracht wird.
+Versuch idee 1. dass ich das Method von Main da hinzufüge.
+wie das Method aufrufen kann in einem andere Klasse , da habe ich die Hilfe von Chatgpt genommen. es hat ein Fehler bei das Wort Main gezeigt bei der Fehler 
+stand dass Main Method geschützt ist und kann nich in einem Andere Klasse verwendet werden. ich habe Main Method Public erstellt so somit die Herausforderung gelöst.
+
+
+Anpassung:-
+         Kauf prozess in dem man die Kunden bei verschiedene angelegenheiten nach Zahlung fragt z.b nach dem  angebotenen Innenaussttatung oder Ohne Innen-ausstattung . weil es an drei Stelle das Kaufprozess weiter gehen musste, habe ich die klasse Kauf mit der KaufMethod erstellt. um das Code besser leserlich und 
+verständlich zu haben.
+
+
+Änderungen:-
+dass die Methoden solange sich wiederholen bis der Benutzer richtige Daten eingibt.
+1. In der Klasse Modelle am Ende in der if else schleife am Ende das selbe Method eingegeben, falls der Benutzer falsche Daten eingibt dass der wieder ganz
+oben in der Schleife gebracht wird.
+
+
+Json:-
+     bei der speicherung von json hat viel Zeit gebraucht. musste von verschiedene Youtube videos und KI nach Hilfe fragen. das einfache speicherung ist klar geworden aber wie man die speicherung von user eingegebene Daten, die im Methoden und Konstrukturen befinden speichern kann. 
+und am Ende KURZ UND KNAPP bei Main Methode aufrufen kann.
+1.daher habe ich am Ende eien Klasse benutzerdaten erstellt und da neue variable für json datei erstellt.
+2. die variablen die userdaten hatten von verschiedene Klassen habe nochmal im Klasse am anfang als public Datatyp mit der get set funktion erstellt.
+3.das objekt von benutzerdaten klasse hat die einzelne variablen von dort geholt und  von usereingegebene daten unter  Datatyp variablen von klassen mit der objekt erstellung raus geholt und das wert an die variablen von Klasse benutzerdata zugewiesen.
+das einmalige Json speicherung format befindet sich an der Main-Methode unten. 
+
+Fehler von speicherung von den Funtion zurückzurHauptseite.
+                                                          bei der letzte funktion wo der Benutzer nach Hauptseite gefragt und gebracht wird, speicher dieses Schritt im Json nicht.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
